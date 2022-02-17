@@ -1,2 +1,2 @@
 # git_mr_practice
-hehe
+This is a sentence for practicing MR
